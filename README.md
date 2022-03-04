@@ -7,3 +7,4 @@
 ```
 ensure esx_kity
 ```
+* Add to database esx_kity.sql
